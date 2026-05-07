@@ -28,7 +28,8 @@ wind – using a sensor or a gesture.
 
 [Link Text](64 【🎨交互｜涂鸦体验设计，用手机做涂鸦 - 新青年设计研究室 | 小红书 - 你的生活兴趣社区】 😆 6pkaARZYe3SljVm 😆 https://www.xiaohongshu.com/discovery/item/6880e0fe000000001203efb7?source=webshare&xhsshare=pc_web&xsec_token=ABIpJv4ociG1DkxaxMG-LwhxM70aWkAw9PWAfYB0IlZQo=&xsec_source=pc_share)
 
-![An image of a Spray‑paint interaction digital art]()
+![An image of a Spray‑paint interaction digital art](readmeImages/image1.jpg)
+![An image of Motion activation](readmeImages/image2.jpg)
 
 ---
 
